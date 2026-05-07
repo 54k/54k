@@ -30,11 +30,6 @@ Java backend engineer. MSc InfoSec.
 
 ---
 
-<p>
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=54k&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&icon_color=8b949e&count_private=true" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=54k&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e&langs_count=6" />
-</p>
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/54k/54k/output/github-contribution-grid-snake-dark.svg" />
 </p>
