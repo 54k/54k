@@ -21,9 +21,9 @@ MSc InfoSec.
 
 | | | |
 |---|---|---|
-| [`gnet`](https://github.com/54k/gnet) | Async TCP/UDP networking library — reactor pattern, selector event loop | Java |
-| [`wtf`](https://github.com/54k/wtf) | Real-time WebSocket chat — rooms, history, async I/O | Java, Netty |
-| [`acmeserver`](https://github.com/54k/acmeserver) | MMORPG server emulator — custom binary protocol, entity system | Java |
+| [`plexus`](https://github.com/54k/plexus) | Async TCP/UDP networking library — reactor pattern, selector event loop | Java |
+| [`parlor`](https://github.com/54k/parlor) | Real-time WebSocket chat — rooms, history, async I/O | Java, Netty |
+| [`browserquest-server`](https://github.com/54k/browserquest-server) | BrowserQuest server in Java — ECS, behaviour trees, custom protocol | Java |
 | [`neon`](https://github.com/54k/neon) | Entity-Component-System framework — data-oriented game engine | Java |
 | [`safe-gasless-api`](https://github.com/54k/safe-gasless-api) | Gnosis Safe deployment with CREATE2 + gasless meta-transactions | Rust, Ethereum |
 
