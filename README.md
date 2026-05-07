@@ -25,7 +25,6 @@ MSc InfoSec.
 | [`wtf`](https://github.com/54k/wtf) | Real-time WebSocket chat — rooms, history, async I/O | Java, Netty |
 | [`acmeserver`](https://github.com/54k/acmeserver) | MMORPG server emulator — custom binary protocol, entity system | Java |
 | [`neon`](https://github.com/54k/neon) | Entity-Component-System framework — data-oriented game engine | Java |
-| [`tango`](https://github.com/54k/tango) | Real-time transaction aggregation over 60-second sliding windows | Java |
 | [`safe-gasless-api`](https://github.com/54k/safe-gasless-api) | Gnosis Safe deployment with CREATE2 + gasless meta-transactions | Rust, Ethereum |
 
 <p align="center">
