@@ -17,14 +17,16 @@ MSc InfoSec.
 
 ### Things I've built
 
+<sub>Systems-level Java — networking, concurrency, stream processing.</sub>
+
 | | | |
 |---|---|---|
-| [`gnet`](https://github.com/54k/gnet) | Async TCP/UDP networking library, reactor pattern | Java |
-| [`chargestation`](https://github.com/54k/chargestation) | EV charge point management API | Spring Boot |
+| [`gnet`](https://github.com/54k/gnet) | Async TCP/UDP networking library — reactor pattern, selector event loop | Java |
 | [`wtf`](https://github.com/54k/wtf) | Real-time WebSocket chat — rooms, history, async I/O | Java, Netty |
-| [`leetcode-rs`](https://github.com/54k/leetcode-rs) | 1000+ algorithm problems, written in Rust | Rust |
-| [`safe-gasless-api`](https://github.com/54k/safe-gasless-api) | Gnosis Safe creation with CREATE2 + gasless relay | Rust, Ethereum |
-| [`web3-backend-roadmap`](https://github.com/54k/web3-backend-roadmap) | Solidity + Go learning path | Markdown |
+| [`acmeserver`](https://github.com/54k/acmeserver) | MMORPG server emulator — custom binary protocol, entity system | Java |
+| [`neon`](https://github.com/54k/neon) | Entity-Component-System framework — data-oriented game engine | Java |
+| [`tango`](https://github.com/54k/tango) | Real-time transaction aggregation over 60-second sliding windows | Java |
+| [`safe-gasless-api`](https://github.com/54k/safe-gasless-api) | Gnosis Safe deployment with CREATE2 + gasless meta-transactions | Rust, Ethereum |
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/54k/54k/output/github-contribution-grid-snake-dark.svg" />
