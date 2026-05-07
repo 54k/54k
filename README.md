@@ -1,6 +1,4 @@
-# 54k
-
-Java backend engineer. MSc InfoSec.
+MSc InfoSec.
 
 ---
 
