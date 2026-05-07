@@ -2,8 +2,6 @@
 
 Java backend engineer. MSc InfoSec.
 
-I like digging into things — JVM internals, low-level networking, Rust algorithms, Web3 tooling. Most of what's here is me tinkering in public.
-
 ---
 
 ### Stack
